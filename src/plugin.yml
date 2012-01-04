@@ -1,0 +1,4 @@
+name: MoveCraft
+main: com.sycoprime.movecraft.MoveCraft
+version: 0.7.3
+authors: [Yogoda, SycoPrime, Valgor, Maximuspaine]
